@@ -7,8 +7,8 @@ In this analysis, I refactored old code to go through our dataset to look at the
 ## Results
 
 ### 2017 vs. 2018 Stock Performance
-![](Resources/2017_run_time.png)
-![](Resources/2018_run_time.png)
+![](Resources/VBA_Challenge_2017.png)
+![](Resources/VBA_Challenge_2018.png)
 
 
 To calculate return I used the previously calculated tickerStartingPrices and tickerEndingPrices. Dividing the two and then subtracting one outputs a percentage return, and the code below outputs that value:
